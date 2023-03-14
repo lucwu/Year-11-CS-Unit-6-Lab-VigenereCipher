@@ -1,5 +1,7 @@
 # Year-11-CS-Unit-6-Lab-VigenereCipher
 
+Lucas Wu
+
 Your job is to create one class called VigenereCipher.
 You should pass all of the tests in the VigenereCipherTester class (provided).
 
